@@ -5,7 +5,6 @@
 ## ⚡️ Portfolio 
 ---
 📂 [Notion Portfolio](https://www.notion.so/Frontend-Developer-Min-Jiyeon-dfe3e06c458b4adfae57e0042351cfe1)
-![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=ichbinmin2&show_icons=true&theme=dark)
 
 ## 📌 Contact
 ---

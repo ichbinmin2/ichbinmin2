@@ -6,6 +6,5 @@
 📂 [Notion Portfolio](https://www.notion.so/Frontend-Developer-Min-Jiyeon-dfe3e06c458b4adfae57e0042351cfe1) <br/><br/><br/>
 
 ## 📌 Contact
-✉️ [teta1dev@gmail.com](teta1dev@gmail.com)
-
+✉️ teta1dev@gmail.com
 ✏️ [Blog](https://velog.io/@ichbinmin2)

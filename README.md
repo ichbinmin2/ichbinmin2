@@ -6,7 +6,7 @@
 <h3>Jiyeon Min | Frontend Engineer </h3>
 
 
-[![Resume]()](https://decisive-aftermath-f41.notion.site/Frontend-Developer-995f5911082e43bdb4561cd6e1d6af4f) [![EMAIL](https://img.shields.io/badge/-teta1dev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)]() [![Velog](https://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@ichbinmin2)](https://velog.io/@ichbinmin2) </br> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fichbinmin2%2Fhit-counter&count_bg=%239589D1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![](https://komarev.com/ghpvc/?username=JiyeonMin&color=grey) 
+[![Resume](https://img.shields.io/badge/-Resume-000000?style=flat-square&logo=Notion&logoColor=white&link=](https://decisive-aftermath-f41.notion.site/Frontend-Developer-995f5911082e43bdb4561cd6e1d6af4f) [![EMAIL](https://img.shields.io/badge/-teta1dev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)]() [![Velog](https://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@ichbinmin2)](https://velog.io/@ichbinmin2) </br> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fichbinmin2%2Fhit-counter&count_bg=%239589D1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![](https://komarev.com/ghpvc/?username=JiyeonMin&color=grey) 
 
 <hr>
 <div align="center" >

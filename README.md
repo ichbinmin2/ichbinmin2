@@ -1,7 +1,5 @@
 
 <div align="center">
-  
-<img src='https://user-images.githubusercontent.com/53133662/156363404-09791ba9-ddb6-4f1f-a1f8-b6ea7e739474.png' alt="memoji" width="200" >
 
 <h3>Jiyeon Min | Frontend Engineer </h3>
 
